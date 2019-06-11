@@ -12,7 +12,7 @@ const Navegacion = () => {
             <div class="collapse navbar-collapse" id="navbarColor03">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <NavLink to={'/proyectos'} activeClassName="activo">Inicio</NavLink>
+                        <NavLink to={'/'} activeClassName="activo">Inicio</NavLink>
                         <NavLink to={'/about'} activeClassName="activo">Acerca de mí</NavLink>
                     </li>
                    

@@ -25,7 +25,7 @@ const Cv = (props) => {
                     </tr>
                     <tr>
                         <th><i class="fab fa-linkedin"></i>Linkedin:</th>
-                        <td><a href={linkedin}>Linkedin profile</a></td>
+                        <td><a href={linkedin} target="_blank">Linkedin profile</a></td>
                     </tr>
                     <tr>
                         <th><i class="fas fa-map-pin"></i>City:</th>
