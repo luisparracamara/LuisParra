@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/luisparra/static/css/main.3efc0d89.chunk.css",
-    "main.js": "/luisparra/static/js/main.f164ac61.chunk.js",
-    "main.js.map": "/luisparra/static/js/main.f164ac61.chunk.js.map",
+    "main.js": "/luisparra/static/js/main.893fbbaf.chunk.js",
+    "main.js.map": "/luisparra/static/js/main.893fbbaf.chunk.js.map",
     "runtime~main.js": "/luisparra/static/js/runtime~main.38d4b594.js",
     "runtime~main.js.map": "/luisparra/static/js/runtime~main.38d4b594.js.map",
     "static/js/2.aad42321.chunk.js": "/luisparra/static/js/2.aad42321.chunk.js",
     "static/js/2.aad42321.chunk.js.map": "/luisparra/static/js/2.aad42321.chunk.js.map",
     "index.html": "/luisparra/index.html",
-    "precache-manifest.3a87bcd9a9014cb2310e994df710eaf9.js": "/luisparra/precache-manifest.3a87bcd9a9014cb2310e994df710eaf9.js",
+    "precache-manifest.fd51b4e6ba85ac6f8bc6fcf8bb32b786.js": "/luisparra/precache-manifest.fd51b4e6ba85ac6f8bc6fcf8bb32b786.js",
     "service-worker.js": "/luisparra/service-worker.js",
     "static/css/main.3efc0d89.chunk.css.map": "/luisparra/static/css/main.3efc0d89.chunk.css.map"
   }
