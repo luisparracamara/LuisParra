@@ -1,0 +1,15 @@
+.navegacion {
+    
+    background: #17a2b8;
+}
+.navegacion a {
+  
+    padding: 10px;
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.navegacion a.activo {
+    color: #17a2b8;
+}

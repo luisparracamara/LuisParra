@@ -1,0 +1,63 @@
+td{
+    padding: 5px;
+    background: #fff;
+}
+
+th{
+    background: #039bb3;
+    color: #000;
+    font-weight: 500;
+    padding: 5px;
+}
+
+#php{
+    background: #884EA0;
+    color: #fff;
+    font-size: 18px;
+}
+
+#javascript{
+    background: #F1C40F;
+    color: #fff;
+    font-size: 18px;
+}
+
+#jquery{
+    background: #3498DB;
+    color: #fff;
+    font-size: 18px;
+}
+
+#reactjs{
+    background: #2471A3;
+    color: #fff;
+    font-size: 18px;
+}
+
+#mysql{
+    background: #85C1E9;
+    color: #fff;
+    font-size: 18px;
+}
+
+#html{
+    background: #E67E22;
+    color: #fff;
+    font-size: 18px;
+}
+
+#css3{
+    background: #2E86C1;
+    color: #fff;
+    font-size: 18px;
+}
+
+#bootstrap{
+    background: #8E44AD;
+    color: #fff;
+    font-size: 18px;
+}
+
+i{
+    font-size: 20px;
+}

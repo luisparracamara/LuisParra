@@ -1,13 +1,98 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+header a{
+text-align: center;
+padding: 20px 0;
+letter-spacing: 15px;
+font-family: 'Staatliches', cursive;
+color: #000;
+background: #17a2b8;
+text-shadow:
+  -1px -1px 0 #fff,  
+  1px -1px 0 #fff,
+  -1px 1px 0 #fff,
+  1px 1px 0 #fff;
+}
+
+header a:hover{
+text-decoration: none;
+color: #fff;
+text-shadow:
+  -1px -1px 0 #000,  
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
+.imagen_portada{
+    width: 100%;
+    height: 300px;
+    max-width: 100%;
+    
+}
+
+.alert:hover{
+    border: #037182 2px solid;
+}
+
+.contenedorIndex{
+    width: 50%;
+    margin: auto;
+}
+
+.contenedorIndex a:link{
+    text-decoration: none;
+}
+
+
+.contenedorLenguajes{
+    text-align: center;
+    background: #17a2b8;
+    color: #fff;
+}
+
+i{
+    margin-right: 4px;
+}
+
+.backend{
+    background: #A569BD;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 45%;
+    margin: auto;
+}
+
+.frontend{
+    background: #D4AC0D;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 45%;
+    margin: auto;
+}
+
+.database{
+    background: #27AE60;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 45%;
+    margin: auto; 
+}
+
+.lenguajes i{
+    font-size: 25px;
+}
+
+.contenedorDetalles h5{
+    text-align: center;
+}
+
+
+.imgPagina{
+    width: 100%;
 }
