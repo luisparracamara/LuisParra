@@ -42,6 +42,11 @@ export default class Routes extends Component {
                             />
                         )} />
 
+                        <Route exact path="/proyectos" render={() => (
+                            <Proyectos
+                                proyectos={this.state.proyectos}
+                            />
+                        )} />
                         
                         <Route exact path="/proyecto/:proyectoId" render={(props) => {
                                 let idProyecto = props.location.pathname.replace('/proyecto/', '');
