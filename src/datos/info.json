@@ -50,6 +50,32 @@
         "fecha": "Enero del 2019",
         "live_demo": "www.google.com",
         "imagen_pagina": "https://i.ibb.co/yh9xK96/Fire-Shot-Capture-024-Inseguridad-Cajeme-localhost.png"
+    },
+    {
+        "id": 2,
+        "nombre": "ParraHuates sistema de administración",
+        "portada": "https://i.ibb.co/rGjJ449/parrahuates.png",
+        "descripcion": "Aplicación web con la finalidad de administrar el negocio de distribución de producto de dulcería en las tiendas del municipio de Cajeme.",
+        "frontend": [
+            {
+                "jquery": "Jquery",
+                "bootstrap": "Bootsrap",
+                "javascript": "Javascript"
+            }
+        ],
+        "backend": [
+            {
+                "php": "PHP"
+            }
+        ],
+        "database": [
+            {
+                "mysql": "MySQL"
+            }
+        ],
+        "fecha": "Junio del 2019",
+        "live_demo": "www.google.com",
+        "imagen_pagina": "https://i.ibb.co/4T52gT2/Fire-Shot-Capture-001-Parra-Huates-localhost.png"
     }
     
    
